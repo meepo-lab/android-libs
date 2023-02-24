@@ -1,0 +1,1 @@
+/Users/V9N/AndroidStudioProjects/AndroidCore/buildSrc/build/classes/kotlin/main/AndroidOS.class:/Users/V9N/AndroidStudioProjects/AndroidCore/buildSrc/build/classes/kotlin/main/Dependencies.class:/Users/V9N/AndroidStudioProjects/AndroidCore/buildSrc/build/classes/kotlin/main/VersionCode.class
